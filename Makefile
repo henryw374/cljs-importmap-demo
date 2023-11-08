@@ -1,5 +1,5 @@
 dist: 
-			rm -rf docs && mkdir docs && cp -r resources/public/* docs && cp -r web-target/public/* docs
+			rm -rf docs && mkdir docs && cp -r resources/public/* docs && cp -r web-target/public/cljs-demo-app/* docs
 test-cljs-shadow:
 			clojure -Adev -X com.widdindustries.tiado-cljs2/tests-ci-shadow :compile-mode :release
 .PHONY: list
