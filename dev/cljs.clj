@@ -6,7 +6,7 @@
 
 (defn app-config []
   (->
-    (util/browser-app-config {:asset-path "/cljs-demo-app/cljs-out"})
+    (util/browser-app-config {:asset-path "/cljs-importmap-demo/cljs-out"})
     (merge
       {:target     :esm
        :js-options {:js-provider :import}
