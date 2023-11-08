@@ -5,6 +5,8 @@ This app demonstrates using 3rd party npm libraries (e.g. React) which are downl
 
 The actual app is just the [tanstack react-router 'quick-start'](https://tanstack.com/router/v1/docs/quick-start) in cljs.
 
+[Blog post that explains more context](https://widdindustries.com/blog/clojurescript-importmap.html)
+
 # Usage
 
 As per usual [tiado-cljs2](https://github.com/henryw374/tiado-cljs2) ...
