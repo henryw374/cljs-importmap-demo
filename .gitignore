@@ -1,0 +1,12 @@
+.cpcache
+.idea
+.clj-kondo
+**/.shadow-cljs
+**/node_modules
+**/web-target/public/*
+**/build-report.html
+browser-test
+.nrepl-port
+package.json
+package-lock.json
+*.iml

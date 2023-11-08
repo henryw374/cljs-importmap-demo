@@ -1,0 +1,7 @@
+{:paths ["src" "resources" "dev" "test" "web-target"]
+ :deps
+ {
+  com.widdindustries/tiado-cljs2 {:git/url "https://github.com/henryw374/tiado-cljs2.git" :git/sha "8aa3042d834d2695ec9d4f9f65532573c849d6bf" }
+  
+  }
+ } 
